@@ -1,11 +1,11 @@
 {
-    "name": "asantibanez/livewire-charts",
+    "name": "huracan88/livewire-charts",
     "description": "Livewire Charts",
     "keywords": [
         "asantibanez",
         "livewire-charts"
     ],
-    "homepage": "https://github.com/asantibanez/livewire-charts",
+    "homepage": "https://github.com/Huracan88/livewire-charts",
     "license": "MIT",
     "type": "library",
     "authors": [
